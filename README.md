@@ -1,0 +1,1 @@
+The purpose of this project was to collect information from Wikipedia and then create a set of trivia questions. The questions would be displayed with an image. However, it seems linguistics is still a bit out of reach for my skills.
